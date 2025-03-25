@@ -10,14 +10,14 @@
 #define REN 33
 
 // BTS7960 Motor Driver Pins (Wheels) (Left)
-#define LRPWM 19
-#define LLPWM 18
+#define LRPWM 18
+#define LLPWM 19
 #define LEN 21
 
 // Weapon Motor Pins
-#define WLPWM 27
-#define WRPWM 32
-#define WEN 12
+#define WLPWM 12
+#define WRPWM 14
+#define WEN 27
 
 #define NOISE_THRESHOLD 15    // Ignore small values < 15 in PWM
 
